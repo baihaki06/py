@@ -24,6 +24,6 @@ for subdaftarbelanja in DaftarBelanja:
     for komponen in subdaftarbelanja:
         print(komponen)
 
-        
+
 
 
